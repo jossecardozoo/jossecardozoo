@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Seguime-?style=social&logo=linkedin)](https://www.linkedin.com/in/josefina-cardozo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Seguime-?style=social&logo=linkedin)](https://www.linkedin.com/in/josefina-cardozo-094a5725a/)
