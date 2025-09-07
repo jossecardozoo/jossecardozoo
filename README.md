@@ -33,7 +33,7 @@
 ### Current interests
 [![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)](https://qiskit.org/)
 [![QBronze · OQI](https://img.shields.io/badge/QBronze-Open%20Quantum%20Institute-CD7F32?style=for-the-badge&logo=openbadges&logoColor=white)](qbronze.jpeg)
-[![QNickel · OQI](https://img.shields.io/badge/QNickel-Open%20Quantum%20Institute-8A9597?style=for-the-badge&logo=openbadges&logoColor=white)](Qnickel.jpeg)
+[![QNickel · OQI](https://img.shields.io/badge/QNickel-Open%20Quantum%20Institute-8A9597?style=for-the-badge&logo=openbadges&logoColor=white)](Qnckel.jpeg)
 
 
 
