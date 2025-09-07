@@ -11,9 +11,12 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josefina-cardozo-094a5725a/)
 
 ### About me
+- 🇺🇾 Uruguayan (Montevideo)
 - 👩‍💻 Associate Software Developer at **Oracle NetSuite**
 - 📚 Thesis on **neural networks** for prediction of air pollutants concentration
-- 🏅 Participating in Quantum Hackathon 2025 LATAM 1-3 October
+- 🏅 Participating in **Quantum Hackathon 2025 LATAM** 1-3 October
+- 🧠 Attending the **[Escuela de Primavera en Deep Learning 2025](https://primavera-dl.github.io/)** — UBA, Buenos Aires (20–24 Oct 2025)
+- 🏆 2nd place — **IA Tech Challenge 2025 (Desafío Antel)** — [Antel Open Digital Lab](https://antel.com.uy/web/odl/convocatorias/iatech-2025)
 
 ### Tech stack
 <p>
@@ -27,7 +30,7 @@
   <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" height="32"/>
 </p>
 
-### Curren interests
+### Current interests
 [![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)](https://qiskit.org/)
 [![QBronze · OQI](https://img.shields.io/badge/QBronze-Open%20Quantum%20Institute-CD7F32?style=for-the-badge&logo=openbadges&logoColor=white)](assets/certs/qbronze.jpg)
 [![QNickel · OQI](https://img.shields.io/badge/QNickel-Open%20Quantum%20Institute-8A9597?style=for-the-badge&logo=openbadges&logoColor=white)](assets/certs/qnickel.jpg)
