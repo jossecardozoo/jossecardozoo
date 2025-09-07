@@ -1,18 +1,30 @@
-## Hi there 👋
+## Hey!
 
-<!--
-**jossecardozoo/jossecardozoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1200&center=true&vCenter=true&width=700&lines=Hey!+I'm+Josefina+%F0%9F%91%8B;Software+Engineer+%7C+Data%2FML;React+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+TensorFlow+%C2%B7+PyTorch" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josefina-cardozo-094a5725a/)
+
+### About me
+- 👩‍💻 Associate Software Developer at **Oracle NetSuite**
+- 📚 Thesis on **neural networks** for prediction of air pollutants concentration
+- 🏅 Participating in Quantum Hackathon 2025 LATAM 1-3 October
+
+
+
+### Tech stack
+<p>
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32"/>
+  <img alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="32" height="32"/>
+  <img alt="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="32" height="32"/>
+  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" height="32"/>
+  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" height="32"/>
+  <img alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" height="32"/>
+  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" height="32"/>
+  <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" height="32"/>
+</p>
+
+
+
